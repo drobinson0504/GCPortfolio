@@ -49,6 +49,22 @@ img {
   
 }
 
+button {
+  font-family: "Noto Sans";
+  font-size: 14px;
+  background-color:  #660033;
+  color: white;
+  background-image:  -webkit-linear-gradient(#FFE6F2, #800040);
+}
+
+#Submit {
+  font-family: "Noto Sans";
+  font-size: 14px;
+  background-color:  #FF9933;
+  color: black;
+  background-image:  -webkit-linear-gradient(#FFD9B3, #FFB366);
+}
+
 a:link {color: white;}
     
 
