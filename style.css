@@ -98,18 +98,24 @@ a:link {color: white;}
 }
 
 @media (max-width:  1200px) {
-  body, p {
+  body {
     font-family: "Cabin Condensed";
     background-color:  #FFCC66;
     color:  #000000;
   }
+  p {
+    color: #000000;
+  }
 }
 
 @media (max-width:  900px) {
-  body, p {
+  body {
     font-family: "Cabin Condensed";
     background-color:  #99CCFF;
     color:  #000000;
+  }
+  p {
+    color: #000000;
   }
 }
 
